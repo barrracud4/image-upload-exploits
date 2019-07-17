@@ -1,0 +1,5 @@
+#define cbk8r-51fet_width 500
+#define cbk8r-51fet_height 500
+static short cbk8r-51fet_bits[] = {
+  0x80000001,
+  };

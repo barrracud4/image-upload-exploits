@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200">
+    <defs>
+        <style type="text/css">
+            <![CDATA[
+                @font-face {
+                    font-family: Delicious;
+                    src: url('TARGET_SCHEME://ssrf-svg-style-cdata-font-src.TARGET_DOMAIN:TARGET_PORT/');
+                }
+            ]]>
+        </style>
+    </defs>
+    <text x="100" y="100" style="font-family: 'Delicious'; font-weight:normal; font-style: normal">
+        Text using CSS @font-face
+    </text>
+</svg>

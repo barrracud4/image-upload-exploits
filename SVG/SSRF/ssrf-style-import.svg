@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="200" height="200">
+  <style>
+    @import url("TARGET_SCHEME://ssrf-svg-style-import-url.TARGET_DOMAIN:TARGET_PORT/");
+  </style>
+  <rect/>
+</svg>
